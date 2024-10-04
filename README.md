@@ -1,2 +1,2 @@
-# Cardiac_disease_diagnosis_and_treatment
-CPP program which implements AI techniques, backward and forward chaining to diagnose and treat cardiac diseases
+# Sudoku puzzle
+This program solves a sudoku using A* final algorithm. Candidate reduction heuristic has been used.
